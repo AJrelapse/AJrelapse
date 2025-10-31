@@ -92,9 +92,6 @@
   <a href="https://www.linkedin.com/in/ajay-anand-sm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/AJ_Relapse/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
   <a href="https://www.instagram.com/a_j_a_y_anand/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -107,7 +104,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/AJrelapse/AJrelapse/output/snake.svg" alt="Snake animation" />
 
 ###
